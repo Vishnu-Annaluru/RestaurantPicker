@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165872355716",
+    "project_id": "restaurantpicker-c3019",
+    "storage_bucket": "restaurantpicker-c3019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165872355716:android:6527ad54a3415cbf2135d1",
+        "android_client_info": {
+          "package_name": "com.example.restaurantpickerandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165872355716-d3jlo9ibudql515s3u935v43eciegpeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPDcHq--NgHoXIHG8Atz8VixBDtSQSOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165872355716-d3jlo9ibudql515s3u935v43eciegpeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
