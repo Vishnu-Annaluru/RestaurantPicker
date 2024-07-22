@@ -26,7 +26,7 @@ class Search extends StatefulWidget {
       baseUrl: "https://api.yelp.com/v3/businesses/search",
       headers: {
         "Authorization":
-            "Bearer iqDQGKyBgLW2z1YmuWIqKhBTDz-o9fWozT-tjiszM7yna1_1Lu3_tnx8lb484kIncVA4c2OLPkMM5jJtBx6Z_pBfW4Tvno7-2hstnzVEBwrdVT9UDMMf2gIy2mPxYnYx",
+            "Bearer PUTKEYHERE",
       },
     ),
   );
